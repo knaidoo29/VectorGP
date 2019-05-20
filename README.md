@@ -1,2 +1,3 @@
 # VectorGP
-Gaussian processes for emulation of vectors
+
+Gaussian processes for emulation of vectors.
